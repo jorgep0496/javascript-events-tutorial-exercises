@@ -1,8 +1,5 @@
-window.calculateSumListener = function calculateSumListener()
-	//Return the value of the input #firstNumber
+window.calculateSumListener = function calculateSumListener() {
 	var stringA = document.getElementById("firstNumber").value;
-	//Return the value of the input #secondNumber
 	var stringB = document.getElementById("secondNumber").value;
-
-	//your code goes here
+	var stringC = document.getElementById("resultNumber");
 };

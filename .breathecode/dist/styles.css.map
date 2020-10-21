@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./exercises/04-hide-on-click/styles.css"],"names":[],"mappings":"AAAA;AACA,oBAAoB;;AAEpB;AACA,qBAAqB","file":"styles.css","sourcesContent":["#firstDiv {\n  background: green; }\n\n#secondDiv {\n  background: yellow; }\n"],"sourceRoot":""}
